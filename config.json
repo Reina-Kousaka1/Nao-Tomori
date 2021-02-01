@@ -1,0 +1,26 @@
+{
+    "prefix": "t;",
+    "Devprefix":"-",
+    "DevID":"345577792773160965",
+    "OwnerID":[
+    "680778360871190600",
+    "458236758086254593"
+    ],
+    "version": "1.0.0",
+    "token":"your token",
+
+
+    "Activitytypes": {
+        "0": "Spielt",
+        "1": "Streamt",
+        "2": "Hört auf",
+        "3": "Schaut"
+    },
+
+    "Usertypes": {
+        "online": "<:online:804811259278393414> Online",
+        "idle": "<:idle:804811342862745620> Idle",
+        "dnd": "<:dnd:804811401561505813> Do Not Disturb",
+        "offline": "<:offline:804811445535375361> Offline"
+    }
+}

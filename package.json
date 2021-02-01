@@ -1,0 +1,17 @@
+{
+  "name": "nao",
+  "version": "0.0.3a",
+  "description": "",
+  "main": "nao.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "own_process": "1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
